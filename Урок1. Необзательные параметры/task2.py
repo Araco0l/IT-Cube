@@ -1,0 +1,5 @@
+sepa=input("Введите символ *\n")
+one=input("Напишите 'раз'\n")
+two=input("Напишите 'два'\n")
+three=input("Напишите 'три'\n")
+print(one, two, three, sep=sepa)
